@@ -89,7 +89,7 @@ python wonders/RAG/main.py
 
 ## Author
 
-**Vigneshwaran J S**
+** Kirubnananthan M **
 
 ---
 
